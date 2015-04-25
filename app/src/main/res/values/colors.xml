@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- My colors -->
+    <color name="pinky0">#ffea79df</color>
+    <color name="pinky" >#ffda40e1</color>
+    <color name="pinky1">#fff846ff</color>
+    <color name="pinky2">#ffe955ee</color>
+    <color name="pinky3">#ffc441cd</color>
+    <color name="pinky4">#ff861e8b</color>
+
+    <!-- grayscale -->
+    <color name="white"     >#FFFFFF</color>
+    <color name="gray_light">#DBDBDB</color>
+    <color name="gray"      >#939393</color>
+    <color name="gray_dark" >#5F5F5F</color>
+    <color name="black"     >#323232</color>
+</resources>
